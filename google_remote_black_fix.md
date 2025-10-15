@@ -48,7 +48,7 @@ groups
 
 
 
-#磁碟壞掉而變成emengecy mode 終端模式的解決方法
+# 磁碟壞掉而變成emengecy mode 終端模式的解決方法
 
  
 ```bash
